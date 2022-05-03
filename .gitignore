@@ -1,0 +1,15 @@
+#VS Code
+.vscode
+
+# executaveis
+/**/*.out
+
+# arquivos texto
+/**/*.txt
+
+# Teste em pythin
+teste.py
+
+exec.out
+*.dSYM
+output
